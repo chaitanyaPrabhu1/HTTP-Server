@@ -1,4 +1,0 @@
-
-> http_server_attemp_3@1.0.0 dev
-> npx tsc && node dist/index.js
-
